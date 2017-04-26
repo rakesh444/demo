@@ -1,1 +1,3 @@
 giving new update of this application
+a small bug was found and i have changed it 
+
