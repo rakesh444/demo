@@ -1,1 +1,2 @@
 giving new update of this application
+new function is adding to comapre stirng
