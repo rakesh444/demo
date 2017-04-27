@@ -1,0 +1,7 @@
+giving new update of this application
+<<<<<<< HEAD
+new function is adding to comapre stirng
+=======
+a small bug was found and i have changed it 
+
+>>>>>>> 8e3e926ec07948b3d4470ebbf9ff87d987041fa4
